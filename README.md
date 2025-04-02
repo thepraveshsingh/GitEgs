@@ -1,2 +1,2 @@
 # GitEgs
-A training session for Github training
+A training session for Github training.
